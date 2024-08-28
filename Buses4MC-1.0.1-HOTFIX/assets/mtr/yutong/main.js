@@ -4,7 +4,7 @@ importPackage(java.nio);
 include(Resources.idRelative("mtr:lib/harrys_lib.js"));
 include("display.js");
 
-var rawModels = ModelManager.loadPartedRawModel(Resources.manager(), Resources.idRelative("mtr:yutong/yutong.obj"), null);
+var rawModels = ModelManager.loadPartedRawModel(Resources.manager(), Resources.idRelative("yutong.obj"), null);
 var models = uploadPartedModels(rawModels, true, true);
 
 function create(ctx, state, train) {
@@ -48,8 +48,8 @@ function renderLogic(ctx, state, train) {
 
 function renderTurnLights(ctx, state, train, matrices) {
 	let shouldRenderTurnLights = Timing.elapsed() % 1.0 > 0.5;
-	if (state.isTurningRight && shouldRenderTurnLights) ctx.drawCarModel(models["turn_right"], 0, matrices);
-	if (state.isTurningLeft && shouldRenderTurnLights) ctx.drawCarModel(models["turn_left"], 0, matrices);
+	if (state.isTurningRight && shouldRenderTurnLights) ctx.drawCarModel(models["turn_left"], 0, matrices);
+	if (state.isTurningLeft && shouldRenderTurnLights) ctx.drawCarModel(models["turn_right"], 0, matrices);
 }
 
 function renderTranslucent(ctx, state, train, matrices) {
@@ -144,20 +144,20 @@ function renderFrontWheels(ctx, state, train, matrices) {
 	const radius = 1.3;
 	let steeringAngle = state.steeringAngle;
 	matrices.pushPose();
-	matrices.translate(-0.96, 0.52, 3.324);
+	matrices.translate(0.96, 0.52, 3.324);
 	matrices.rotateY(steeringAngle);
 	matrices.rotateX(state.wheelAngle * radius);
-	matrices.translate(0.96, -0.52, -3.324);
+	matrices.translate(-0.96, -0.52, -3.324);
 
 	ctx.drawCarModel(models["fwheelR"], 0, matrices);
 
 	matrices.popPose();
 
 	matrices.pushPose();
-	matrices.translate(0.96, 0.52, 3.324);
+	matrices.translate(-0.96, 0.52, 3.324);
 	matrices.rotateY(steeringAngle);
 	matrices.rotateX(state.wheelAngle * radius);
-	matrices.translate(-0.96, -0.52, -3.324);
+	matrices.translate(0.96, -0.52, -3.324);
 
 	ctx.drawCarModel(models["fwheelL"], 0, matrices);
 
