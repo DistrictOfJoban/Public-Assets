@@ -1,0 +1,13 @@
+{
+  "custom_trains": {
+    "yutong_zk_6108_skt": {
+      "name": "Yutong ZK6108HGH Bus (San Kong Transport)",
+      "color": "568D54",
+      "base_type": "train_10_2",
+      "has_gangway_connection": false,
+      "script_files": ["mtr:yutong/main.js"],
+      "rider_offset": -0.3,
+      "bve_sound_base_id": "yutong"
+    }
+  }
+}

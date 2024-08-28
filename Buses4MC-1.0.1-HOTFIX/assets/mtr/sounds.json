@@ -1,0 +1,71 @@
+{
+   "yutong_door_close":{
+      "sounds":[
+         {
+            "name":"mtr:yutong/door_close",
+            "attenuation_distance": 16,
+            "volume": 0.6
+         }
+      ]
+   },
+   "yutong_door_open":{
+      "sounds":[
+         {
+            "name":"mtr:yutong/door_open",
+            "attenuation_distance": 16,
+            "volume": 0.6
+         }
+      ]
+   },
+   "yutong_eng_idle":{
+      "sounds":[
+         {
+            "name":"mtr:yutong/eng_idle",
+            "attenuation_distance": 10
+         }
+      ]
+   },
+   "yutong_eng_idle2":{
+      "sounds":[
+         {
+            "name":"mtr:yutong/eng_idle2",
+            "volume": 0.8,
+            "attenuation_distance": 35
+         }
+      ]
+   },
+   "yutong_idle":{
+      "sounds":[
+         {
+            "name":"mtr:yutong/idle",
+            "attenuation_distance": 10
+         }
+      ]
+   },
+   "yutong_motor_run":{
+      "sounds":[
+         {
+            "name":"mtr:yutong/motor_run",
+            "attenuation_distance": 25,
+            "volume": 1.0,
+            "pitch": 1.6
+         }
+      ]
+   },
+   "yutong_run_far":{
+      "sounds":[
+         {
+            "name":"mtr:yutong/run_far",
+            "attenuation_distance": 30
+         }
+      ]
+   },
+   "yutong_horn":{
+      "sounds":[
+         {
+            "name":"mtr:yutong/horn",
+            "attenuation_distance": 25
+         }
+      ]
+   }
+}
