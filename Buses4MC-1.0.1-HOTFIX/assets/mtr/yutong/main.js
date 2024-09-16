@@ -39,7 +39,7 @@ function updateLogic(state, train) {
 
 function renderLogic(ctx, state, train) {
 	var matrices = new Matrices();
-	matrices.translate(0.0, -1.0, 0.0);
+	matrices.translate(-0.2, -1.0, 0.0);
 
 	renderBody(ctx, state, train, matrices);
 	renderBackWheels(ctx, state, train, matrices);
