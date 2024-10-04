@@ -2,7 +2,7 @@
     "curved_plat_na_2": {
         "name": "Platform NA2",
         "model": "mtrsteamloco:models/curved_plat/na_2/na_2.obj",
-        "yOffset": 0.5,
+        "yOffset": 0.51,
         "flipV": true,
         "repeatInterval": 0.95
     },
@@ -10,7 +10,7 @@
         "name": "Platform NA2/Indented",
         "model": "mtrsteamloco:models/curved_plat/na_2/na_2_indented.obj",
         "flipV": true,
-        "yOffset": 0.5,
+        "yOffset": 0.51,
         "repeatInterval": 0.95
     },
     "curved_plat_na_2_slab_bottom": {
@@ -28,7 +28,7 @@
     "curved_plat_na_2_flipped": {
         "name": "Platform NA2 [Flipped]",
         "model": "mtrsteamloco:models/curved_plat/na_2/na_2_flipped.obj",
-        "yOffset": 0.5,
+        "yOffset": 0.51,
         "flipV": true,
         "repeatInterval": 0.95
     },
@@ -36,7 +36,7 @@
         "name": "Platform NA2/Indented [Flipped]",
         "model": "mtrsteamloco:models/curved_plat/na_2/na_2_indented_flipped.obj",
         "flipV": true,
-        "yOffset": 0.5,
+        "yOffset": 0.51,
         "repeatInterval": 0.95
     },
     "curved_plat_na_2_slab_bottom_flipped": {

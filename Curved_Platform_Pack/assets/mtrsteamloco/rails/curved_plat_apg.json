@@ -2,7 +2,7 @@
     "curved_plat_apg": {
         "name": "Platform APG",
         "model": "mtrsteamloco:models/curved_plat/apg/apg.obj",
-        "yOffset": 0.5,
+        "yOffset": 0.51,
         "flipV": true,
         "repeatInterval": 0.95
     },
@@ -10,7 +10,7 @@
         "name": "Platform APG/Indented",
         "model": "mtrsteamloco:models/curved_plat/apg/apg_indented.obj",
         "flipV": true,
-        "yOffset": 0.5,
+        "yOffset": 0.51,
         "repeatInterval": 0.95
     },
     "curved_plat_apg_slab_bottom": {
@@ -28,7 +28,7 @@
     "curved_plat_apg_flipped": {
         "name": "Platform APG [Flipped]",
         "model": "mtrsteamloco:models/curved_plat/apg/apg_flipped.obj",
-        "yOffset": 0.5,
+        "yOffset": 0.51,
         "flipV": true,
         "repeatInterval": 0.95
     },
@@ -36,7 +36,7 @@
         "name": "Platform APG/Indented [Flipped]",
         "model": "mtrsteamloco:models/curved_plat/apg/apg_indented_flipped.obj",
         "flipV": true,
-        "yOffset": 0.5,
+        "yOffset": 0.51,
         "repeatInterval": 0.95
     },
     "curved_plat_apg_slab_bottom_flipped": {
