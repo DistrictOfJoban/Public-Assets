@@ -1,0 +1,54 @@
+{
+    "curved_plat_na_2": {
+        "name": "Platform NA2",
+        "model": "mtrsteamloco:models/curved_plat/na_2/na_2.obj",
+        "yOffset": 0.5,
+        "flipV": true,
+        "repeatInterval": 0.95
+    },
+    "curved_plat_na_2_indented": {
+        "name": "Platform NA2/Indented",
+        "model": "mtrsteamloco:models/curved_plat/na_2/na_2_indented.obj",
+        "flipV": true,
+        "yOffset": 0.5,
+        "repeatInterval": 0.95
+    },
+    "curved_plat_na_2_slab_bottom": {
+        "name": "Platform NA2/SlabLow",
+        "model": "mtrsteamloco:models/curved_plat/na_2/na_2_slab_bottom.obj",
+        "flipV": true,
+        "repeatInterval": 0.95
+    },
+    "curved_plat_na_2_slab_top": {
+        "name": "Platform NA2/SlabHigh",
+        "model": "mtrsteamloco:models/curved_plat/na_2/na_2_slab_top.obj",
+        "flipV": true,
+        "repeatInterval": 0.95
+    },
+    "curved_plat_na_2_flipped": {
+        "name": "Platform NA2 [Flipped]",
+        "model": "mtrsteamloco:models/curved_plat/na_2/na_2_flipped.obj",
+        "yOffset": 0.5,
+        "flipV": true,
+        "repeatInterval": 0.95
+    },
+    "curved_plat_na_2_indented_flipped": {
+        "name": "Platform NA2/Indented [Flipped]",
+        "model": "mtrsteamloco:models/curved_plat/na_2/na_2_indented_flipped.obj",
+        "flipV": true,
+        "yOffset": 0.5,
+        "repeatInterval": 0.95
+    },
+    "curved_plat_na_2_slab_bottom_flipped": {
+        "name": "Platform NA2/SlabLow [Flipped]",
+        "model": "mtrsteamloco:models/curved_plat/na_2/na_2_slab_bottom_flipped.obj",
+        "flipV": true,
+        "repeatInterval": 0.95
+    },
+    "curved_plat_na_2_slab_top_flipped": {
+        "name": "Platform NA2/SlabHigh [Flipped]",
+        "model": "mtrsteamloco:models/curved_plat/na_2/na_2_slab_top_flipped.obj",
+        "flipV": true,
+        "repeatInterval": 0.95
+    }
+}

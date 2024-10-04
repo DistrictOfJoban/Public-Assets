@@ -1,0 +1,54 @@
+{
+    "curved_plat_psd": {
+        "name": "Platform PSD",
+        "model": "mtrsteamloco:models/curved_plat/psd/psd.obj",
+        "yOffset": 0.5,
+        "flipV": true,
+        "repeatInterval": 0.95
+    },
+    "curved_plat_psd_indented": {
+        "name": "Platform PSD/Indented",
+        "model": "mtrsteamloco:models/curved_plat/psd/psd_indented.obj",
+        "flipV": true,
+        "yOffset": 0.5,
+        "repeatInterval": 0.95
+    },
+    "curved_plat_psd_slab_bottom": {
+        "name": "Platform PSD/SlabLow",
+        "model": "mtrsteamloco:models/curved_plat/psd/psd_slab_bottom.obj",
+        "flipV": true,
+        "repeatInterval": 0.95
+    },
+    "curved_plat_psd_slab_top": {
+        "name": "Platform PSD/SlabHigh",
+        "model": "mtrsteamloco:models/curved_plat/psd/psd_slab_top.obj",
+        "flipV": true,
+        "repeatInterval": 0.95
+    },
+    "curved_plat_psd_flipped": {
+        "name": "Platform PSD [Flipped]",
+        "model": "mtrsteamloco:models/curved_plat/psd/psd_flipped.obj",
+        "yOffset": 0.5,
+        "flipV": true,
+        "repeatInterval": 0.95
+    },
+    "curved_plat_psd_indented_flipped": {
+        "name": "Platform PSD/Indented [Flipped]",
+        "model": "mtrsteamloco:models/curved_plat/psd/psd_indented_flipped.obj",
+        "flipV": true,
+        "yOffset": 0.5,
+        "repeatInterval": 0.95
+    },
+    "curved_plat_psd_slab_bottom_flipped": {
+        "name": "Platform PSD/SlabLow [Flipped]",
+        "model": "mtrsteamloco:models/curved_plat/psd/psd_slab_bottom_flipped.obj",
+        "flipV": true,
+        "repeatInterval": 0.95
+    },
+    "curved_plat_psd_slab_top_flipped": {
+        "name": "Platform PSD/SlabHigh [Flipped]",
+        "model": "mtrsteamloco:models/curved_plat/psd/psd_slab_top_flipped.obj",
+        "flipV": true,
+        "repeatInterval": 0.95
+    }
+}

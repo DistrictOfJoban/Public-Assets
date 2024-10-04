@@ -1,0 +1,54 @@
+{
+    "curved_plat_uk_1": {
+        "name": "Platform UK",
+        "model": "mtrsteamloco:models/curved_plat/uk_1/uk_1.obj",
+        "yOffset": 0.5,
+        "flipV": true,
+        "repeatInterval": 0.95
+    },
+    "curved_plat_uk_1_indented": {
+        "name": "Platform UK/Indented",
+        "model": "mtrsteamloco:models/curved_plat/uk_1/uk_1_indented.obj",
+        "flipV": true,
+        "yOffset": 0.5,
+        "repeatInterval": 0.95
+    },
+    "curved_plat_uk_1_slab_bottom": {
+        "name": "Platform UK/SlabLow",
+        "model": "mtrsteamloco:models/curved_plat/uk_1/uk_1_slab_bottom.obj",
+        "flipV": true,
+        "repeatInterval": 0.95
+    },
+    "curved_plat_uk_1_slab_top": {
+        "name": "Platform UK/SlabHigh",
+        "model": "mtrsteamloco:models/curved_plat/uk_1/uk_1_slab_top.obj",
+        "flipV": true,
+        "repeatInterval": 0.95
+    },
+    "curved_plat_uk_1_flipped": {
+        "name": "Platform UK [Flipped]",
+        "model": "mtrsteamloco:models/curved_plat/uk_1/uk_1_flipped.obj",
+        "yOffset": 0.5,
+        "flipV": true,
+        "repeatInterval": 0.95
+    },
+    "curved_plat_uk_1_indented_flipped": {
+        "name": "Platform UK/Indented [Flipped]",
+        "model": "mtrsteamloco:models/curved_plat/uk_1/uk_1_indented_flipped.obj",
+        "flipV": true,
+        "yOffset": 0.5,
+        "repeatInterval": 0.95
+    },
+    "curved_plat_uk_1_slab_bottom_flipped": {
+        "name": "Platform UK/SlabLow [Flipped]",
+        "model": "mtrsteamloco:models/curved_plat/uk_1/uk_1_slab_bottom_flipped.obj",
+        "flipV": true,
+        "repeatInterval": 0.95
+    },
+    "curved_plat_uk_1_slab_top_flipped": {
+        "name": "Platform UK/SlabHigh [Flipped]",
+        "model": "mtrsteamloco:models/curved_plat/uk_1/uk_1_slab_top_flipped.obj",
+        "flipV": true,
+        "repeatInterval": 0.95
+    }
+}
