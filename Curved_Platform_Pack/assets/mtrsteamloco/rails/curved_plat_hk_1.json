@@ -24,31 +24,5 @@
         "model": "mtrsteamloco:models/curved_plat/hk_1/hk_1_slab_top.obj",
         "flipV": true,
         "repeatInterval": 0.95
-    },
-    "curved_plat_hk_1_flipped": {
-        "name": "Platform HK [Flipped]",
-        "model": "mtrsteamloco:models/curved_plat/hk_1/hk_1_flipped.obj",
-        "yOffset": 0.51,
-        "flipV": true,
-        "repeatInterval": 0.95
-    },
-    "curved_plat_hk_1_indented_flipped": {
-        "name": "Platform HK/Indented [Flipped]",
-        "model": "mtrsteamloco:models/curved_plat/hk_1/hk_1_indented_flipped.obj",
-        "flipV": true,
-        "yOffset": 0.51,
-        "repeatInterval": 0.95
-    },
-    "curved_plat_hk_1_slab_bottom_flipped": {
-        "name": "Platform HK/SlabLow [Flipped]",
-        "model": "mtrsteamloco:models/curved_plat/hk_1/hk_1_slab_bottom_flipped.obj",
-        "flipV": true,
-        "repeatInterval": 0.95
-    },
-    "curved_plat_hk_1_slab_top_flipped": {
-        "name": "Platform HK/SlabHigh [Flipped]",
-        "model": "mtrsteamloco:models/curved_plat/hk_1/hk_1_slab_top_flipped.obj",
-        "flipV": true,
-        "repeatInterval": 0.95
     }
 }

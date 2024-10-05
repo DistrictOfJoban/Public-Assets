@@ -3,7 +3,7 @@ This resource pack adds NTE/MTR 4 Rail Model which replicates MTR's built-in pla
 This allows for a visually curved/sloped platform depending on how the track is placed.
 
 ## Contents
-This pack contains the following platform block model, including a flipped/non-flipped variant:
+This pack contains the following platform block model:
 - Hong Kong (HK)
 - With Platform Screen Doors (PSD)
 - With Automatic Platform Gates (APG)
@@ -13,6 +13,8 @@ This pack contains the following platform block model, including a flipped/non-f
 
 ## Compatibility
 This pack requires the [Nemo Transit Expansion](https://modrinth.com/mod/mtr-nte) mod on MTR 3, but loads directly in MTR 4 without additional dependencies/mods.
+
+Platform can be flipped by right clicking with brush in MTR 3 + NTE
 
 ## License
 This project is licensed under the MIT License.

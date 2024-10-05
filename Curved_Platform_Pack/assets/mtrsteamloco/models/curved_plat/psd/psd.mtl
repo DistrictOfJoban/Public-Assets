@@ -1,7 +1,7 @@
 # Blender 4.2.1 LTS MTL File: 'None'
 # www.blender.org
 
-newmtl m_f02eb3bc-ffab-7a7e-65b2-6b5bb3ec7dcd
+newmtl m_f02eb3bc-ffab-7a7e-65b2-6b5bb3ec7dcd.001
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -11,7 +11,7 @@ d 1.000000
 illum 1
 map_Kd transparent.png
 
-newmtl m_f27ce99f-7147-614c-3b60-734e0fa5cb20
+newmtl m_f27ce99f-7147-614c-3b60-734e0fa5cb20.001
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
