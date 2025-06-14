@@ -1,0 +1,387 @@
+{
+    "rails": [
+        {
+            "id": "curved_plat_apg",
+            "name": "Platform APG",
+            "modelResource": "mtr:mtr_curved_platform/apg/apg.obj",
+            "modelYOffset": 0.51,
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_apg_indented",
+            "name": "Platform APG/Indented",
+            "modelResource": "mtr:mtr_curved_platform/apg/apg_indented.obj",
+            "flipTextureV": true,
+            "modelYOffset": 0.51,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_apg_slab_bottom",
+            "name": "Platform APG/SlabLow",
+            "modelResource": "mtr:mtr_curved_platform/apg/apg_slab_bottom.obj",
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_apg_slab_top",
+            "name": "Platform APG/SlabHigh",
+            "modelResource": "mtr:mtr_curved_platform/apg/apg_slab_top.obj",
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        
+        {
+            "id": "curved_plat_apg_flipped",
+            "name": "Platform APG [Flipped]",
+            "modelResource": "mtr:mtr_curved_platform/apg/apg_flipped.obj",
+            "modelYOffset": 0.51,
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_apg_indented_flipped",
+            "name": "Platform APG/Indented [Flipped]",
+            "modelResource": "mtr:mtr_curved_platform/apg/apg_indented_flipped.obj",
+            "flipTextureV": true,
+            "modelYOffset": 0.51,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_apg_slab_bottom_flipped",
+            "name": "Platform APG/SlabLow [Flipped]",
+            "modelResource": "mtr:mtr_curved_platform/apg/apg_slab_bottom_flipped.obj",
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_apg_slab_top_flipped",
+            "name": "Platform APG/SlabHigh [Flipped]",
+            "modelResource": "mtr:mtr_curved_platform/apg/apg_slab_top_flipped.obj",
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        
+        
+        
+        
+        
+        
+        {
+            "id": "curved_plat_hk_1",
+            "name": "Platform HK",
+            "modelResource": "mtr:mtr_curved_platform/hk_1/hk_1.obj",
+            "modelYOffset": 0.51,
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_hk_1_indented",
+            "name": "Platform HK/Indented",
+            "modelResource": "mtr:mtr_curved_platform/hk_1/hk_1_indented.obj",
+            "flipTextureV": true,
+            "modelYOffset": 0.51,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_hk_1_slab_bottom",
+            "name": "Platform HK/SlabLow",
+            "modelResource": "mtr:mtr_curved_platform/hk_1/hk_1_slab_bottom.obj",
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_hk_1_slab_top",
+            "name": "Platform HK/SlabHigh",
+            "modelResource": "mtr:mtr_curved_platform/hk_1/hk_1_slab_top.obj",
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_hk_1_flipped",
+            "name": "Platform HK [Flipped]",
+            "modelResource": "mtr:mtr_curved_platform/hk_1/hk_1_flipped.obj",
+            "modelYOffset": 0.51,
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_hk_1_indented_flipped",
+            "name": "Platform HK/Indented [Flipped]",
+            "modelResource": "mtr:mtr_curved_platform/hk_1/hk_1_indented_flipped.obj",
+            "flipTextureV": true,
+            "modelYOffset": 0.51,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_hk_1_slab_bottom_flipped",
+            "name": "Platform HK/SlabLow [Flipped]",
+            "modelResource": "mtr:mtr_curved_platform/hk_1/hk_1_slab_bottom_flipped.obj",
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_hk_1_slab_top_flipped",
+            "name": "Platform HK/SlabHig [Flipped]",
+            "modelResource": "mtr:mtr_curved_platform/hk_1/hk_1_slab_top_flipped.obj",
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        
+        
+        
+        {
+            "id": "curved_plat_na_1",
+            "name": "Platform NA1",
+            "modelResource": "mtr:mtr_curved_platform/na_1/na_1.obj",
+            "modelYOffset": 0.51,
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_na_1_indented",
+            "name": "Platform NA1/Indented",
+            "modelResource": "mtr:mtr_curved_platform/na_1/na_1_indented.obj",
+            "flipTextureV": true,
+            "modelYOffset": 0.511,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_na_1_slab_bottom",
+            "name": "Platform NA1/SlabLow",
+            "modelResource": "mtr:mtr_curved_platform/na_1/na_1_slab_bottom.obj",
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_na_1_slab_top",
+            "name": "Platform NA1/SlabHigh",
+            "modelResource": "mtr:mtr_curved_platform/na_1/na_1_slab_top.obj",
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_na_1_flipped",
+            "name": "Platform NA1 [Flipped]",
+            "modelResource": "mtr:mtr_curved_platform/na_1/na_1_flipped.obj",
+            "modelYOffset": 0.51,
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_na_1_indented_flipped",
+            "name": "Platform NA1/Indented [Flipped]",
+            "modelResource": "mtr:mtr_curved_platform/na_1/na_1_indented_flipped.obj",
+            "flipTextureV": true,
+            "modelYOffset": 0.511,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_na_1_slab_bottom_flipped",
+            "name": "Platform NA1/SlabLow [Flipped]",
+            "modelResource": "mtr:mtr_curved_platform/na_1/na_1_slab_bottom_flipped.obj",
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_na_1_slab_top_flipped",
+            "name": "Platform NA1/SlabHigh [Flipped]",
+            "modelResource": "mtr:mtr_curved_platform/na_1/na_1_slab_top_flipped.obj",
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        
+        
+        
+        
+        {
+            "id": "curved_plat_na_2",
+            "name": "Platform NA2",
+            "modelResource": "mtr:mtr_curved_platform/na_2/na_2.obj",
+            "modelYOffset": 0.51,
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_na_2_indented",
+            "name": "Platform NA2/Indented",
+            "modelResource": "mtr:mtr_curved_platform/na_2/na_2_indented.obj",
+            "flipTextureV": true,
+            "modelYOffset": 0.51,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_na_2_slab_bottom",
+            "name": "Platform NA2/SlabLow",
+            "modelResource": "mtr:mtr_curved_platform/na_2/na_2_slab_bottom.obj",
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_na_2_slab_top",
+            "name": "Platform NA2/SlabHigh",
+            "modelResource": "mtr:mtr_curved_platform/na_2/na_2_slab_top.obj",
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_na_2_flipped",
+            "name": "Platform NA2 [Flipped]",
+            "modelResource": "mtr:mtr_curved_platform/na_2/na_2_flipped.obj",
+            "modelYOffset": 0.51,
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_na_2_indented_flipped",
+            "name": "Platform NA2/Indented [Flipped]",
+            "modelResource": "mtr:mtr_curved_platform/na_2/na_2_indented_flipped.obj",
+            "flipTextureV": true,
+            "modelYOffset": 0.51,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_na_2_slab_bottom_flipped",
+            "name": "Platform NA2/SlabLow [Flipped]",
+            "modelResource": "mtr:mtr_curved_platform/na_2/na_2_slab_bottom_flipped.obj",
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_na_2_slab_top_flipped",
+            "name": "Platform NA2/SlabHigh [Flipped]",
+            "modelResource": "mtr:mtr_curved_platform/na_2/na_2_slab_top_flipped.obj",
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        
+        
+        
+        
+        {
+            "id": "curved_plat_psd",
+            "name": "Platform PSD",
+            "modelResource": "mtr:mtr_curved_platform/psd/psd.obj",
+            "modelYOffset": 0.51,
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_psd_indented",
+            "name": "Platform PSD/Indented",
+            "modelResource": "mtr:mtr_curved_platform/psd/psd_indented.obj",
+            "flipTextureV": true,
+            "modelYOffset": 0.51,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_psd_slab_bottom",
+            "name": "Platform PSD/SlabLow",
+            "modelResource": "mtr:mtr_curved_platform/psd/psd_slab_bottom.obj",
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_psd_slab_top",
+            "name": "Platform PSD/SlabHigh",
+            "modelResource": "mtr:mtr_curved_platform/psd/psd_slab_top.obj",
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        
+        {
+            "id": "curved_plat_psd_flipped",
+            "name": "Platform PSD [Flipped]",
+            "modelResource": "mtr:mtr_curved_platform/psd/psd_flipped.obj",
+            "modelYOffset": 0.51,
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_psd_indented_flipped",
+            "name": "Platform PSD/Indented [Flipped]",
+            "modelResource": "mtr:mtr_curved_platform/psd/psd_indented_flipped.obj",
+            "flipTextureV": true,
+            "modelYOffset": 0.51,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_psd_slab_bottom_flipped",
+            "name": "Platform PSD/SlabLow [Flipped]",
+            "modelResource": "mtr:mtr_curved_platform/psd/psd_slab_bottom_flipped.obj",
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_psd_slab_top_flipped",
+            "name": "Platform PSD/SlabHigh [Flipped]",
+            "modelResource": "mtr:mtr_curved_platform/psd/psd_slab_top_flipped.obj",
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        
+        
+        
+        
+        {
+            "id": "curved_plat_uk_1",
+            "name": "Platform UK",
+            "modelResource": "mtr:mtr_curved_platform/uk_1/uk_1.obj",
+            "modelYOffset": 0.51,
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_uk_1_indented",
+            "name": "Platform UK/Indented",
+            "modelResource": "mtr:mtr_curved_platform/uk_1/uk_1_indented.obj",
+            "flipTextureV": true,
+            "modelYOffset": 0.51,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_uk_1_slab_bottom",
+            "name": "Platform UK/SlabLow",
+            "modelResource": "mtr:mtr_curved_platform/uk_1/uk_1_slab_bottom.obj",
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_uk_1_slab_top",
+            "name": "Platform UK/SlabHigh",
+            "modelResource": "mtr:mtr_curved_platform/uk_1/uk_1_slab_top.obj",
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_uk_1_flipped",
+            "name": "Platform UK [Flipped]",
+            "modelResource": "mtr:mtr_curved_platform/uk_1/uk_1_flipped.obj",
+            "modelYOffset": 0.51,
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_uk_1_indented_flipped",
+            "name": "Platform UK/Indented [Flipped]",
+            "modelResource": "mtr:mtr_curved_platform/uk_1/uk_1_indented_flipped.obj",
+            "flipTextureV": true,
+            "modelYOffset": 0.51,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_uk_1_slab_bottom_flipped",
+            "name": "Platform UK/SlabLow [Flipped]",
+            "modelResource": "mtr:mtr_curved_platform/uk_1/uk_1_slab_bottom_flipped.obj",
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_uk_1_slab_top_flipped",
+            "name": "Platform UK/SlabHigh [Flipped]",
+            "modelResource": "mtr:mtr_curved_platform/uk_1/uk_1_slab_top_flipped.obj",
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        }
+    ]
+}
